@@ -1,0 +1,44 @@
+{
+	"cse":{
+		"ip":"127.0.0.1",
+		"port": 8080,
+		"name":"cse-in",
+		"release":"3",
+		"poa_in_nu":false
+	},
+	"monitor":{
+		"id":"Cae-monitor",
+		"ip":"127.0.0.1",
+		"port":8181
+	},
+	"proximitytrig1":{
+		"isprox1trig":false
+	},
+	"proximitytrig2":{
+		"isprox2trig":false
+	},
+	"weighttrigger":{
+		"isweighttrig":false
+	},
+	"LedFull":{
+		"isLedFullOn":false
+	},
+	"LedHalf":{
+		"isLedHalfOn":false
+	},
+	"LedEmpty":{
+		"isLedEmptyOn":false
+	},
+	"LedHeavy":{
+		"isLedHeavyOn":false
+	},
+	"ProximitySensor1":{
+		"proximity1Threshold":300
+	},
+	"ProximitySensor2":{
+		"proximity2Threshold":300
+	},
+	"WeightSensor":{
+		"weightThreshold":500
+	}
+}
